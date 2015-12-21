@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CubeDemo</string>
+    <string name="scan_qr">SCAN QR</string>
+    <string name="welcome_message">Open http://cubedemo.pomkalk.ru from your computer and read QR code by your device</string>
+</resources>
